@@ -3,6 +3,6 @@ The zero-crossing rate (ZCR) is the rate of sign-changes along a signal, i.e., t
 
 Run the 'ZCR_application.m' file. It will upload the audio file 'sample.wav' and will plot three plots (ZCR, Hamming windowed and energy).
 
-Written by Adrià Romero López.
-Date: April 18, 2016
-Institution: Polithecnical University of Catalonia (UPC) - Barcelona Tech
+Written by Adrià Romero López.<br>
+Date: April 18, 2016<br>
+Institution: Polithecnical University of Catalonia (UPC) - Barcelona Tech<br>
